@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-first-pro",
-    "slug": "rn-first-pro",
+    "name": "First todo app in React-Native",
+    "slug": "first-todo-app-in-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
